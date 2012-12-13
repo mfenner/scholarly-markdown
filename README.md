@@ -10,5 +10,6 @@ Optional metadata about a document in the format key: value. At the beginning of
 Author: Martin Fenner  
 Title: A document  
 Date: December 13, 2012  
+Version: 1.0  
 Keywords: markdown, metadata  
 
