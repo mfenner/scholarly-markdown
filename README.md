@@ -15,3 +15,11 @@ Date: December 13, 2012
 Version: 1.0  
 Keywords: markdown, metadata  
 
+## Typography
+
+Support for **superscript** and **subscript**.
+
+#### Example
+
+X<sup>2</sup> and X<sub>2</sub>
+
