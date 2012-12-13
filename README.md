@@ -1,11 +1,13 @@
-scholarly-markdown
+Ascholarly-markdown
 ==================
 
 Specification for Markdown appropriate for scholarly content
 
 ## Metadata
 
-Optional metadata about a document in the format key: value. At the beginning of a document, followed by an whitespace only line. 
+Optional metadata about a document. Typically used for title, author and publication date, but should be flexible enough to handle any kind of metadata.
+
+#### Example
 
 Author: Martin Fenner  
 Title: A document  
