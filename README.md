@@ -1,7 +1,7 @@
 Scholarly-markdown
 ==================
 
-Specification for Markdown appropriate for scholarly content. This document is work in progress.
+Specification for Markdown appropriate for scholarly content. More information in the [Wiki](Home).
 
 
 
