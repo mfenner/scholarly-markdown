@@ -1,0 +1,15 @@
+{
+  "run_list": [
+    "recipe[apt]",
+    "recipe[build-essential]",
+	  "recipe[rvm::system]",
+	  "recipe[rvm::vagrant]"
+  ],
+  "rvm": { "global_gems": [{ "name": "bundler", "version": "1.2.2" }, 
+                           { "name": "rake", "version": "10.0.2" },
+                           { "name": "chef", "version": "10.16.2" },
+                           { "name": "librarian", "version": "0.0.25" },
+                           { "name": "specific_install", "version": "0.2.3" },
+                           { "name": "redcarpet", "version": "2.2.2" }],
+           "default_ruby": "ruby-1.9.3-p327" }
+}
