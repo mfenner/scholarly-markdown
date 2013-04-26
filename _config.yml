@@ -1,4 +1,0 @@
-markdown: redcarpet
-auto: true
-permalink: /:year/:month/:day/:title
-exclude: [cookbooks, tmp, Cheffile, Cheffile.lock, dna.json, Vagrantfile, README.md]
